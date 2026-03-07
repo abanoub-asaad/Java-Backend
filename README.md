@@ -44,7 +44,6 @@ In this repository, you will find :
       <ul>
         <li><a> Unit Testing </a></li>
         <li><a> Integeration Testing </a></li>
-        <li><a> Integeration Testing </a></li>
         <li><a> JUnit </a></li>
         <li><a> Mockito </a></li>
       </ul>
