@@ -24,6 +24,24 @@ In this repository, you will find :
         <li><a> OOPs </a></li>
         <li><a> Collections </a></li>
         <li><a> Generics </a></li>
+        <li><a> Exception Handling </a></li>
+        <li><a> Strings </a></li>
+        <li><a> Enums </a></li>
+        <li><a> Annotations </a></li>
+      </ul>
+    </li>
+    <li>
+      <a> Modern Java </a>
+      <ul>
+        <li><a> Lambda Expressions </a></li>
+        <li><a> Functional Interfaces </a></li>
+        <li><a> Stream API </a></li>
+        <li><a> Optional </a></li>
+        <li><a> Method References </a></li>
+        <li><a> Date and Time API </a></li>
+        <li><a> Records </a></li>
+        <li><a> Sealed Classes </a></li>
+        <li><a> Pattern Matching </a></li>
       </ul>
     </li>
     <li>
