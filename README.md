@@ -344,3 +344,45 @@ In this repository, you will find :
 If you think that anything can be improved in anyway, please do suggest :
   - Open pull request with improvements
   - Discuss ideas in issues.
+
+
+## Backend Fundamentals Before Spring Boot
+
+Before learning Spring Boot, understand how backend applications communicate,
+process requests, manage data, and handle errors.
+
+### Recommended Learning Resources
+
+- [MDN: Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) — HTTP requests, responses, and client-server communication.
+- [MDN: HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) — GET, POST, PUT, PATCH, and DELETE.
+- [MDN: HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) — Understand status codes and error responses.
+- [Java Documentation](https://dev.java/learn/) — Learn core Java concepts.
+- [Postman Learning Center](https://learning.postman.com/) — Learn API testing.
+
+### Progressive Backend Project Roadmap
+
+Complete these projects in order. Each project introduces a new backend concept.
+
+| Level | Project | Concepts to Learn |
+|---|---|---|
+| 1. Beginner | Console-Based Task Manager | Java classes, objects, collections, and CRUD operations |
+| 2. Beginner | File-Based Notes Manager | File handling, persistence, and exception handling |
+| 3. Beginner | Basic HTTP Server | HTTP requests, responses, headers, and status codes |
+| 4. Intermediate | REST API for a Task Manager | REST principles, JSON, endpoints, and validation |
+| 5. Intermediate | Task Manager with MySQL | SQL, JDBC, database connections, and transactions |
+| 6. Intermediate | User Authentication Service | Password hashing, authentication, authorization, and input validation |
+| 7. Intermediate | API Testing Project | Unit testing, integration testing, and API testing |
+| 8. Advanced | URL Shortener | Database design, unique identifiers, caching, and redirects |
+| 9. Advanced | Rate-Limited API | Concurrency, rate limiting, and error handling |
+| 10. Advanced | Mini E-Commerce Backend | Layered architecture, transactions, pagination, and system design |
+
+### Suggested Learning Order
+
+1. Learn core Java, OOP, collections, and exception handling.
+2. Understand HTTP, networking basics, and REST APIs.
+3. Build small applications without a framework.
+4. Learn SQL and database integration using JDBC.
+5. Practise validation, authentication, testing, and error handling.
+6. Start Spring Boot after understanding these fundamentals.
+
+**Goal:** Build a strong understanding of backend principles before relying on a framework.
